@@ -1,7 +1,7 @@
 # Accelerating-Molecular-Dynamics-with-Support-Vector-Machines
 
 ## Overview
-This page includes results and implementation of a novel method for accelerating molecular dynamics with support vector machines. This methods uses One Class Support Vector Machines (OCSVM) to identify probable regions on a potential energy surface as well as the hyperdynamics method to accelerate molecular dynamic simulations.  I will refer to this method as hyperdynamics with OCSVM (HD-OCSVM).
+This page includes results and implementation of a novel method for accelerating molecular dynamics with support vector machines I developed. This methods uses One Class Support Vector Machines (OCSVM) to identify probable regions on a potential energy surface as well as the hyperdynamics method to accelerate molecular dynamic simulations.  I will refer to this method as hyperdynamics with OCSVM (HD-OCSVM).
 
 ## Implementation 
 
